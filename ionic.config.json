@@ -1,0 +1,8 @@
+{
+  "name": "erp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "56de9c7c"
+}
